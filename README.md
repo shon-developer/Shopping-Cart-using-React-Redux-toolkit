@@ -1,34 +1,6 @@
 # ShoppingCart project using React Redux-Toolkit
-[live](https://keen-flan-d67c57.netlify.app/)
 
-Redux Toolkit
-React Course
-My React Course
-
-Support
-Find the App Useful? You can always buy me a coffee
-
-Docs
-Redux Toolkit Docs
-
-Install Template
-npx create-react-app my-app --template redux
-@latest
-npx create-react-app@latest my-app --template redux
-Existing App
-npm install @reduxjs/toolkit react-redux
-@reduxjs/toolkit
-consists of few libraries
-
-redux (core library, state management)
-immer (allows to mutate state)
-redux-thunk (handles async actions)
-reselect (simplifies reducer functions)
-Extras
-redux devtools
-combine reducers
-react-redux
-connects our app to redux
+## Learning in progress
 
 #### Setup Store
 
