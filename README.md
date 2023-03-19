@@ -1,3 +1,6 @@
+# ShoppingCart project using React Redux-Toolkit
+[live](https://keen-flan-d67c57.netlify.app/)
+
 Redux Toolkit
 React Course
 My React Course
